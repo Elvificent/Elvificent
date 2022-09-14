@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elvificent
-- 👀 I’m interested in k drama, k pop
+- 👀 I’m interested in photography, puzzles, boardgames and DIY.
 - 🌱 I’m currently learning python
 
 <!---
