@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvificent" alt="elvificent" /></a> </p>
 
-- 🔭 I’m currently working on [https://mylovewedding.vercel.app/](https://mylovewedding.vercel.app/)
+- 🔭 I’m currently working on RAG Customer Support ticket System using React, Springboot
 
 - 🌱 I’m currently learning **Reactnative, C++**
 
